@@ -80,7 +80,7 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 tvg-id="SCMHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_chinese_movies_legend.png/revision/latest?cb=20130801133119" ,SCM Legend HD
 https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
-#EXTINF:-1 tvg-id="BOO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" ,BOO HD
+#EXTINF:-1 tvg-id="Boo" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" ,BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" ,Blue Ant Extreme
@@ -127,10 +127,10 @@ http://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-logo="https://mantul.org/logo/bioskopindo.png" ,Bioskop Indonesia
 http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
 
-#EXTINF:-1 tvg-id="andflixhd" tvg-logo="https://akamaividz.zee5.com/image/upload/w_368,h_207,c_scale,f_auto,q_auto/resources/0-9-channel_2105335046/channel_list/09channel_2105335046flix.png" ,&Flix HD
+#EXTINF:-1 tvg-id="&Flix HD" tvg-logo="https://akamaividz.zee5.com/image/upload/w_368,h_207,c_scale,f_auto,q_auto/resources/0-9-channel_2105335046/channel_list/09channel_2105335046flix.png" ,&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="andprivehd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-priv%C3%A9hd/list/1170x658withlogo_375086496.jpg" ,&Privé HD
+#EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-priv%C3%A9hd/list/1170x658withlogo_375086496.jpg" ,&Privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MovieMix" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest/scale-to-width-down/250?cb=20130503215946" ,MovieMix
