@@ -175,6 +175,2235 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_248.jpg" />
     <url>http://www.mncvision.id.E</url>
   </channel>
+  <channel id="CCM">
+    <display-name lang="id">CCM</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_22.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="Cinema World">
+    <display-name lang="id">Cinema World</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_cinemaworld_small.png&quot;  alt=&quot;Cinema World&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Cinema World&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Cinema World&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Fox Life HD">
+    <display-name lang="id">Fox Life HD</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_439.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <programme start="20210812214000 +0700" stop="20210812232000 +0700" channel="CCM">
+    <title lang="id">Beyond The Great Wall</title>
+  </programme>
+  <programme start="20210812232000 +0700" stop="20210813010500 +0700" channel="CCM">
+    <title lang="id">The Fake Ghost Catchers</title>
+  </programme>
+  <programme start="20210813010500 +0700" stop="20210813031000 +0700" channel="CCM">
+    <title lang="id">The Blue And The Black</title>
+  </programme>
+  <programme start="20210813031000 +0700" stop="20210813045500 +0700" channel="CCM">
+    <title lang="id">The Flying Mr. B</title>
+  </programme>
+  <programme start="20210813045500 +0700" stop="20210813062500 +0700" channel="CCM">
+    <title lang="id">The Golden Seal</title>
+  </programme>
+  <programme start="20210813062500 +0700" stop="20210813081000 +0700" channel="CCM">
+    <title lang="id">Dawn Will Come</title>
+  </programme>
+  <programme start="20210813081000 +0700" stop="20210813095500 +0700" channel="CCM">
+    <title lang="id">Iron Bodyguard</title>
+  </programme>
+  <programme start="20210813095500 +0700" stop="20210813114500 +0700" channel="CCM">
+    <title lang="id">Return Of The Crazy Bumpkins</title>
+  </programme>
+  <programme start="20210813114500 +0700" stop="20210813132500 +0700" channel="CCM">
+    <title lang="id">House Of Traps</title>
+  </programme>
+  <programme start="20210813132500 +0700" stop="20210813145000 +0700" channel="CCM">
+    <title lang="id">The Story Of My Son</title>
+  </programme>
+  <programme start="20210813145000 +0700" stop="20210813164500 +0700" channel="CCM">
+    <title lang="id">Marco Polo</title>
+  </programme>
+  <programme start="20210813164500 +0700" stop="20210813182500 +0700" channel="CCM">
+    <title lang="id">Hong Kong Hong Kong</title>
+  </programme>
+  <programme start="20210813182500 +0700" stop="20210813200000 +0700" channel="CCM">
+    <title lang="id">The Spirit Of The Sword</title>
+  </programme>
+  <programme start="20210813200000 +0700" stop="20210813213500 +0700" channel="CCM">
+    <title lang="id">The Happiest Moment</title>
+  </programme>
+  <programme start="20210813213500 +0700" stop="20210813230500 +0700" channel="CCM">
+    <title lang="id">Black Magic 2</title>
+  </programme>
+  <programme start="20210813230500 +0700" stop="20210814004000 +0700" channel="CCM">
+    <title lang="id">The Tiger And The Widow</title>
+  </programme>
+  <programme start="20210814004000 +0700" stop="20210814022500 +0700" channel="CCM">
+    <title lang="id">The Silent Swordsman</title>
+  </programme>
+  <programme start="20210814022500 +0700" stop="20210814041000 +0700" channel="CCM">
+    <title lang="id">Forbidden Tales Of Two Cities</title>
+  </programme>
+  <programme start="20210814041000 +0700" stop="20210814054000 +0700" channel="CCM">
+    <title lang="id">Passing Flickers</title>
+  </programme>
+  <programme start="20210814054000 +0700" stop="20210814072000 +0700" channel="CCM">
+    <title lang="id">Death Duel</title>
+  </programme>
+  <programme start="20210814072000 +0700" stop="20210814084500 +0700" channel="CCM">
+    <title lang="id">River Of Tears</title>
+  </programme>
+  <programme start="20210814084500 +0700" stop="20210814103500 +0700" channel="CCM">
+    <title lang="id">Return Of The Sentimental...</title>
+  </programme>
+  <programme start="20210814103500 +0700" stop="20210814121500 +0700" channel="CCM">
+    <title lang="id">Reincarnated Swordsman</title>
+  </programme>
+  <programme start="20210814121500 +0700" stop="20210814134000 +0700" channel="CCM">
+    <title lang="id">Tales Of Larceny</title>
+  </programme>
+  <programme start="20210814134000 +0700" stop="20210814151000 +0700" channel="CCM">
+    <title lang="id">Call To Arms</title>
+  </programme>
+  <programme start="20210814151000 +0700" stop="20210814164000 +0700" channel="CCM">
+    <title lang="id">Village Of Tigers</title>
+  </programme>
+  <programme start="20210814164000 +0700" stop="20210814182000 +0700" channel="CCM">
+    <title lang="id">Blue Skies</title>
+  </programme>
+  <programme start="20210814182000 +0700" stop="20210814200000 +0700" channel="CCM">
+    <title lang="id">Finger Of Doom</title>
+  </programme>
+  <programme start="20210814200000 +0700" stop="20210814214000 +0700" channel="CCM">
+    <title lang="id">The Warlord</title>
+  </programme>
+  <programme start="20210814214000 +0700" stop="20210814231500 +0700" channel="CCM">
+    <title lang="id">The Mighty One</title>
+  </programme>
+  <programme start="20210814231500 +0700" stop="20210815010000 +0700" channel="CCM">
+    <title lang="id">King Drummer</title>
+  </programme>
+  <programme start="20210815010000 +0700" stop="20210815025000 +0700" channel="CCM">
+    <title lang="id">Heaven Sword &amp; Dragon Sabre</title>
+  </programme>
+  <programme start="20210815025000 +0700" stop="20210815042500 +0700" channel="CCM">
+    <title lang="id">Mr. Virgin</title>
+  </programme>
+  <programme start="20210815042500 +0700" stop="20210815063500 +0700" channel="CCM">
+    <title lang="id">Vengeance Of A Snow Girl</title>
+  </programme>
+  <programme start="20210815063500 +0700" stop="20210815081500 +0700" channel="CCM">
+    <title lang="id">How To Pick Girls Up!</title>
+  </programme>
+  <programme start="20210815081500 +0700" stop="20210815100000 +0700" channel="CCM">
+    <title lang="id">The Dragon Creek</title>
+  </programme>
+  <programme start="20210815100000 +0700" stop="20210815114500 +0700" channel="CCM">
+    <title lang="id">The Shadow Boxing</title>
+  </programme>
+  <programme start="20210815114500 +0700" stop="20210815133000 +0700" channel="CCM">
+    <title lang="id">Swordswomen Three</title>
+  </programme>
+  <programme start="20210815133000 +0700" stop="20210815150500 +0700" channel="CCM">
+    <title lang="id">Let's Have A Baby</title>
+  </programme>
+  <programme start="20210815150500 +0700" stop="20210815164000 +0700" channel="CCM">
+    <title lang="id">Lady With A Sword</title>
+  </programme>
+  <programme start="20210815164000 +0700" stop="20210815182500 +0700" channel="CCM">
+    <title lang="id">Heaven Sword &amp; Dragon Sabre 2</title>
+  </programme>
+  <programme start="20210815182500 +0700" stop="20210815200000 +0700" channel="CCM">
+    <title lang="id">Masked Avengers</title>
+  </programme>
+  <programme start="20210815200000 +0700" stop="20210815220000 +0700" channel="CCM">
+    <title lang="id">That Man In Chang-An</title>
+  </programme>
+  <programme start="20210815220000 +0700" stop="20210816000000 +0700" channel="CCM">
+    <title lang="id">The Millionaire Chase</title>
+  </programme>
+  <programme start="20210816000000 +0700" stop="20210816014500 +0700" channel="CCM">
+    <title lang="id">I Love Lolanto</title>
+  </programme>
+  <programme start="20210816014500 +0700" stop="20210816032500 +0700" channel="CCM">
+    <title lang="id">Moods Of Love</title>
+  </programme>
+  <programme start="20210816032500 +0700" stop="20210816050500 +0700" channel="CCM">
+    <title lang="id">Little Dragon Maiden</title>
+  </programme>
+  <programme start="20210816050500 +0700" stop="20210816064500 +0700" channel="CCM">
+    <title lang="id">Mahjong Heroes</title>
+  </programme>
+  <programme start="20210816064500 +0700" stop="20210816083500 +0700" channel="CCM">
+    <title lang="id">The Golden Buddha</title>
+  </programme>
+  <programme start="20210816083500 +0700" stop="20210816101500 +0700" channel="CCM">
+    <title lang="id">Temple Of The Red Lotus</title>
+  </programme>
+  <programme start="20210816101500 +0700" stop="20210816114500 +0700" channel="CCM">
+    <title lang="id">Enchanting Shadow</title>
+  </programme>
+  <programme start="20210816114500 +0700" stop="20210816133000 +0700" channel="CCM">
+    <title lang="id">Life Gamble</title>
+  </programme>
+  <programme start="20210816133000 +0700" stop="20210816151000 +0700" channel="CCM">
+    <title lang="id">How To Choose A Royal Bride</title>
+  </programme>
+  <programme start="20210816151000 +0700" stop="20210816164500 +0700" channel="CCM">
+    <title lang="id">The Knight Of Knights</title>
+  </programme>
+  <programme start="20210816164500 +0700" stop="20210816182500 +0700" channel="CCM">
+    <title lang="id">Diau Charn</title>
+  </programme>
+  <programme start="20210816182500 +0700" stop="20210816200000 +0700" channel="CCM">
+    <title lang="id">Crazy Shaolin Disciples</title>
+  </programme>
+  <programme start="20210816200000 +0700" stop="20210816220000 +0700" channel="CCM">
+    <title lang="id">Trilogy Of Swordsmanship</title>
+  </programme>
+  <programme start="20210816220000 +0700" stop="20210816234000 +0700" channel="CCM">
+    <title lang="id">The Twin Bracelets</title>
+  </programme>
+  <programme start="20210816234000 +0700" stop="20210817013500 +0700" channel="CCM">
+    <title lang="id">The Sword Of Swords</title>
+  </programme>
+  <programme start="20210817013500 +0700" stop="20210817031000 +0700" channel="CCM">
+    <title lang="id">Puppy Love</title>
+  </programme>
+  <programme start="20210817031000 +0700" stop="20210817045500 +0700" channel="CCM">
+    <title lang="id">Voyage Of Emperor Chien Lung</title>
+  </programme>
+  <programme start="20210817045500 +0700" stop="20210817062500 +0700" channel="CCM">
+    <title lang="id">The Kid With The Golden Arm</title>
+  </programme>
+  <programme start="20210817062500 +0700" stop="20210817081000 +0700" channel="CCM">
+    <title lang="id">Love In A Fallen City</title>
+  </programme>
+  <programme start="20210817081000 +0700" stop="20210817100500 +0700" channel="CCM">
+    <title lang="id">Sons Of Good Earth</title>
+  </programme>
+  <programme start="20210817100500 +0700" stop="20210817114500 +0700" channel="CCM">
+    <title lang="id">Asia-Pol</title>
+  </programme>
+  <programme start="20210817114500 +0700" stop="20210817132000 +0700" channel="CCM">
+    <title lang="id">Opium And The Kung-Fu Master</title>
+  </programme>
+  <programme start="20210817132000 +0700" stop="20210817150000 +0700" channel="CCM">
+    <title lang="id">Law Or Justice</title>
+  </programme>
+  <programme start="20210817150000 +0700" stop="20210817164000 +0700" channel="CCM">
+    <title lang="id">Lover's Rock</title>
+  </programme>
+  <programme start="20210817164000 +0700" stop="20210817182000 +0700" channel="CCM">
+    <title lang="id">Return Of Reincarnated...</title>
+  </programme>
+  <programme start="20210817182000 +0700" stop="20210817200000 +0700" channel="CCM">
+    <title lang="id">Family Light Affair</title>
+  </programme>
+  <programme start="20210817200000 +0700" stop="20210817215500 +0700" channel="CCM">
+    <title lang="id">The Treasure Hunters</title>
+  </programme>
+  <programme start="20210817215500 +0700" stop="20210817233500 +0700" channel="CCM">
+    <title lang="id">Human Lanterns</title>
+  </programme>
+  <programme start="20210817233500 +0700" stop="20210818012000 +0700" channel="CCM">
+    <title lang="id">The Tigress Of Shaolin</title>
+  </programme>
+  <programme start="20210818012000 +0700" stop="20210818031000 +0700" channel="CCM">
+    <title lang="id">Forbidden Tales Of Two Cities</title>
+  </programme>
+  <programme start="20210818031000 +0700" stop="20210818044500 +0700" channel="CCM">
+    <title lang="id">Secret Service Of Imperial...</title>
+  </programme>
+  <programme start="20210818044500 +0700" stop="20210818065000 +0700" channel="CCM">
+    <title lang="id">The Blood Brothers</title>
+  </programme>
+  <programme start="20210818065000 +0700" stop="20210818083500 +0700" channel="CCM">
+    <title lang="id">The Fake Ghost Catchers</title>
+  </programme>
+  <programme start="20210818083500 +0700" stop="20210818101500 +0700" channel="CCM">
+    <title lang="id">Love With The Perfect Stranger</title>
+  </programme>
+  <programme start="20210818101500 +0700" stop="20210818115000 +0700" channel="CCM">
+    <title lang="id">The Emperor And The Minister</title>
+  </programme>
+  <programme start="20210818115000 +0700" stop="20210818133000 +0700" channel="CCM">
+    <title lang="id">Monkey Kung Fu</title>
+  </programme>
+  <programme start="20210818133000 +0700" stop="20210818151000 +0700" channel="CCM">
+    <title lang="id">Let's Fall In Love</title>
+  </programme>
+  <programme start="20210818151000 +0700" stop="20210818163500 +0700" channel="CCM">
+    <title lang="id">Gang Master</title>
+  </programme>
+  <programme start="20210818163500 +0700" stop="20210818182500 +0700" channel="CCM">
+    <title lang="id">Lady General Hua Mu-Lan</title>
+  </programme>
+  <programme start="20210818182500 +0700" stop="20210818200000 +0700" channel="CCM">
+    <title lang="id">Bat Without Wings</title>
+  </programme>
+  <programme start="20210818200000 +0700" stop="20210818214500 +0700" channel="CCM">
+    <title lang="id">Hong Kong 73</title>
+  </programme>
+  <programme start="20210818214500 +0700" stop="20210818232500 +0700" channel="CCM">
+    <title lang="id">Facets Of Love</title>
+  </programme>
+  <programme start="20210818232500 +0700" stop="20210819010500 +0700" channel="CCM">
+    <title lang="id">Na Cha The Great</title>
+  </programme>
+  <programme start="20210819010500 +0700" stop="20210819024000 +0700" channel="CCM">
+    <title lang="id">Swift Sword</title>
+  </programme>
+  <programme start="20210819024000 +0700" stop="20210819042000 +0700" channel="CCM">
+    <title lang="id">Killer Constable</title>
+  </programme>
+  <programme start="20210819042000 +0700" stop="20210819055000 +0700" channel="CCM">
+    <title lang="id">Heroes Of Sung</title>
+  </programme>
+  <programme start="20210819055000 +0700" stop="20210819075000 +0700" channel="CCM">
+    <title lang="id">Empress Wu</title>
+  </programme>
+  <programme start="20210819075000 +0700" stop="20210819095000 +0700" channel="CCM">
+    <title lang="id">The Assassin</title>
+  </programme>
+  <programme start="20210819095000 +0700" stop="20210819111500 +0700" channel="CCM">
+    <title lang="id">The Amorous Lotus Pan</title>
+  </programme>
+  <programme start="20210819111500 +0700" stop="20210819132000 +0700" channel="CCM">
+    <title lang="id">Vengeance Of A Snow Girl</title>
+  </programme>
+  <programme start="20210819132000 +0700" stop="20210819150500 +0700" channel="CCM">
+    <title lang="id">The New Shaolin Boxers</title>
+  </programme>
+  <programme start="20210819150500 +0700" stop="20210819164000 +0700" channel="CCM">
+    <title lang="id">Maybe It's Love</title>
+  </programme>
+  <programme start="20210819164000 +0700" stop="20210819182500 +0700" channel="CCM">
+    <title lang="id">The Fantastic Magic Baby</title>
+  </programme>
+  <programme start="20210819182500 +0700" stop="20210819200000 +0700" channel="CCM">
+    <title lang="id">The Tiger And The Widow</title>
+  </programme>
+  <programme start="20210819200000 +0700" stop="20210819214000 +0700" channel="CCM">
+    <title lang="id">Cop Shop Babes</title>
+  </programme>
+  <programme start="20210819214000 +0700" stop="20210819234000 +0700" channel="CCM">
+    <title lang="id">The Dream Of The Red Chamber</title>
+  </programme>
+  <programme start="20210819234000 +0700" stop="20210820012000 +0700" channel="CCM">
+    <title lang="id">What Price Honesty</title>
+  </programme>
+  <programme start="20210820012000 +0700" stop="20210820032000 +0700" channel="CCM">
+    <title lang="id">The Three Smiles</title>
+  </programme>
+  <programme start="20210820032000 +0700" stop="20210820050500 +0700" channel="CCM">
+    <title lang="id">Death Valley</title>
+  </programme>
+  <programme start="20210820050500 +0700" stop="20210820070500 +0700" channel="CCM">
+    <title lang="id">Three Sinners</title>
+  </programme>
+  <programme start="20210820070500 +0700" stop="20210820090500 +0700" channel="CCM">
+    <title lang="id">Trilogy Of Swordsmanship</title>
+  </programme>
+  <programme start="20210820090500 +0700" stop="20210820110500 +0700" channel="CCM">
+    <title lang="id">The Millionaire Chase</title>
+  </programme>
+  <programme start="20210820110500 +0700" stop="20210820124500 +0700" channel="CCM">
+    <title lang="id">Men From The Monastery</title>
+  </programme>
+  <programme start="20210820124500 +0700" stop="20210820143000 +0700" channel="CCM">
+    <title lang="id">Madam White Snake</title>
+  </programme>
+  <programme start="20210820143000 +0700" stop="20210820161500 +0700" channel="CCM">
+    <title lang="id">Duel For Gold</title>
+  </programme>
+  <programme start="20210820161500 +0700" stop="20210820181500 +0700" channel="CCM">
+    <title lang="id">West Chamber</title>
+  </programme>
+  <programme start="20210820181500 +0700" stop="20210820200000 +0700" channel="CCM">
+    <title lang="id">Winner Takes All</title>
+  </programme>
+  <programme start="20210820200000 +0700" stop="20210820214000 +0700" channel="CCM">
+    <title lang="id">Tales Of A Eunuch</title>
+  </programme>
+  <programme start="20210820214000 +0700" stop="20210820231500 +0700" channel="CCM">
+    <title lang="id">Let's Have A Baby</title>
+  </programme>
+  <programme start="20210820231500 +0700" stop="20210821010000 +0700" channel="CCM">
+    <title lang="id">The Crimson Charm</title>
+  </programme>
+  <programme start="20210821010000 +0700" stop="20210821030500 +0700" channel="CCM">
+    <title lang="id">The Blue And The Black</title>
+  </programme>
+  <programme start="20210821030500 +0700" stop="20210821044500 +0700" channel="CCM">
+    <title lang="id">Love On Delivery</title>
+  </programme>
+  <programme start="20210821044500 +0700" stop="20210821061500 +0700" channel="CCM">
+    <title lang="id">The Land Of Many Perfumes</title>
+  </programme>
+  <programme start="20210821061500 +0700" stop="20210821080000 +0700" channel="CCM">
+    <title lang="id">The Sentimental Swordsman</title>
+  </programme>
+  <programme start="20210821080000 +0700" stop="20210821093500 +0700" channel="CCM">
+    <title lang="id">Puppy Love</title>
+  </programme>
+  <programme start="20210821093500 +0700" stop="20210821111500 +0700" channel="CCM">
+    <title lang="id">The Twin Swords</title>
+  </programme>
+  <programme start="20210821111500 +0700" stop="20210821130000 +0700" channel="CCM">
+    <title lang="id">The Flying Mr. B</title>
+  </programme>
+  <programme start="20210821130000 +0700" stop="20210821145500 +0700" channel="CCM">
+    <title lang="id">The Treasure Hunters</title>
+  </programme>
+  <programme start="20210821145500 +0700" stop="20210821165500 +0700" channel="CCM">
+    <title lang="id">That Man In Chang-An</title>
+  </programme>
+  <programme start="20210821165500 +0700" stop="20210821182500 +0700" channel="CCM">
+    <title lang="id">The Golden Seal</title>
+  </programme>
+  <programme start="20210821182500 +0700" stop="20210821200000 +0700" channel="CCM">
+    <title lang="id">The Golden Lion</title>
+  </programme>
+  <programme start="20210821200000 +0700" stop="20210821214500 +0700" channel="CCM">
+    <title lang="id">Justice, My Foot!</title>
+  </programme>
+  <programme start="20210821214500 +0700" stop="20210821234000 +0700" channel="CCM">
+    <title lang="id">Marco Polo</title>
+  </programme>
+  <programme start="20210821234000 +0700" stop="20210822011500 +0700" channel="CCM">
+    <title lang="id">Black Magic 2</title>
+  </programme>
+  <programme start="20210822011500 +0700" stop="20210822030000 +0700" channel="CCM">
+    <title lang="id">Rivals Of Kung Fu</title>
+  </programme>
+  <programme start="20210822030000 +0700" stop="20210822045000 +0700" channel="CCM">
+    <title lang="id">Return Of The Crazy Bumpkins</title>
+  </programme>
+  <programme start="20210822045000 +0700" stop="20210822062500 +0700" channel="CCM">
+    <title lang="id">The Spirit Of The Sword</title>
+  </programme>
+  <programme start="20210822062500 +0700" stop="20210822081000 +0700" channel="CCM">
+    <title lang="id">King Drummer</title>
+  </programme>
+  <programme start="20210822081000 +0700" stop="20210822094500 +0700" channel="CCM">
+    <title lang="id">The Singing Thief</title>
+  </programme>
+  <programme start="20210822094500 +0700" stop="20210822112500 +0700" channel="CCM">
+    <title lang="id">Na Cha The Great</title>
+  </programme>
+  <programme start="20210822112500 +0700" stop="20210822131000 +0700" channel="CCM">
+    <title lang="id">Heaven Sword &amp; Dragon Sabre 2</title>
+  </programme>
+  <programme start="20210822131000 +0700" stop="20210822143500 +0700" channel="CCM">
+    <title lang="id">River Of Tears</title>
+  </programme>
+  <programme start="20210822143500 +0700" stop="20210822161000 +0700" channel="CCM">
+    <title lang="id">Passing Flickers</title>
+  </programme>
+  <programme start="20210822161000 +0700" stop="20210822181500 +0700" channel="CCM">
+    <title lang="id">The Blood Brothers</title>
+  </programme>
+  <programme start="20210822181500 +0700" stop="20210822200000 +0700" channel="CCM">
+    <title lang="id">Full Moon Scimitar</title>
+  </programme>
+  <programme start="20210822200000 +0700" stop="20210822215500 +0700" channel="CCM">
+    <title lang="id">The Sword Of Swords</title>
+  </programme>
+  <programme start="20210822215500 +0700" stop="20210822235500 +0700" channel="CCM">
+    <title lang="id">Angel With The Iron Fists</title>
+  </programme>
+  <programme start="20210822235500 +0700" stop="20210823013500 +0700" channel="CCM">
+    <title lang="id">Asia-Pol</title>
+  </programme>
+  <programme start="20210823013500 +0700" stop="20210823030500 +0700" channel="CCM">
+    <title lang="id">The Bully</title>
+  </programme>
+  <programme start="20210823030500 +0700" stop="20210823043000 +0700" channel="CCM">
+    <title lang="id">The Bride From Hell</title>
+  </programme>
+  <programme start="20210823043000 +0700" stop="20210823063000 +0700" channel="CCM">
+    <title lang="id">Empress Wu</title>
+  </programme>
+  <programme start="20210823063000 +0700" stop="20210823081000 +0700" channel="CCM">
+    <title lang="id">Ambush</title>
+  </programme>
+  <programme start="20210823081000 +0700" stop="20210823101000 +0700" channel="CCM">
+    <title lang="id">The Three Smiles</title>
+  </programme>
+  <programme start="20210823101000 +0700" stop="20210823114500 +0700" channel="CCM">
+    <title lang="id">Masked Avengers</title>
+  </programme>
+  <programme start="20210823114500 +0700" stop="20210823133000 +0700" channel="CCM">
+    <title lang="id">The Delinquent</title>
+  </programme>
+  <programme start="20210823133000 +0700" stop="20210823151000 +0700" channel="CCM">
+    <title lang="id">Buddha's Palm</title>
+  </programme>
+  <programme start="20210823151000 +0700" stop="20210823165500 +0700" channel="CCM">
+    <title lang="id">I Love Lolanto</title>
+  </programme>
+  <programme start="20210823165500 +0700" stop="20210823182500 +0700" channel="CCM">
+    <title lang="id">The Kid With The Golden Arm</title>
+  </programme>
+  <programme start="20210823182500 +0700" stop="20210823200000 +0700" channel="CCM">
+    <title lang="id">Look Out, Officer!</title>
+  </programme>
+  <programme start="20210823200000 +0700" stop="20210823212500 +0700" channel="CCM">
+    <title lang="id">The Story Of My Son</title>
+  </programme>
+  <programme start="20210823212500 +0700" stop="20210823230500 +0700" channel="CCM">
+    <title lang="id">Death Duel</title>
+  </programme>
+  <programme start="20210823230500 +0700" stop="20210824005000 +0700" channel="CCM">
+    <title lang="id">Hong Kong 73</title>
+  </programme>
+  <programme start="20210824005000 +0700" stop="20210824022500 +0700" channel="CCM">
+    <title lang="id">Lady With A Sword</title>
+  </programme>
+  <programme start="20210824022500 +0700" stop="20210824041500 +0700" channel="CCM">
+    <title lang="id">Lady General Hua Mu-Lan</title>
+  </programme>
+  <programme start="20210824041500 +0700" stop="20210824055500 +0700" channel="CCM">
+    <title lang="id">Reincarnated Swordsman</title>
+  </programme>
+  <programme start="20210824055500 +0700" stop="20210824080000 +0700" channel="CCM">
+    <title lang="id">Shaolin Temple</title>
+  </programme>
+  <programme start="20210824080000 +0700" stop="20210824093500 +0700" channel="CCM">
+    <title lang="id">The Knight Of Knights</title>
+  </programme>
+  <programme start="20210824093500 +0700" stop="20210824113500 +0700" channel="CCM">
+    <title lang="id">The Dream Of The Red Chamber</title>
+  </programme>
+  <programme start="20210824113500 +0700" stop="20210824133500 +0700" channel="CCM">
+    <title lang="id">Trilogy Of Swordsmanship</title>
+  </programme>
+  <programme start="20210824133500 +0700" stop="20210824151500 +0700" channel="CCM">
+    <title lang="id">The Warlord</title>
+  </programme>
+  <programme start="20210824151500 +0700" stop="20210824165500 +0700" channel="CCM">
+    <title lang="id">The Shaolin Avengers</title>
+  </programme>
+  <programme start="20210824165500 +0700" stop="20210824183500 +0700" channel="CCM">
+    <title lang="id">Beyond The Great Wall</title>
+  </programme>
+  <programme start="20210824183500 +0700" stop="20210824200000 +0700" channel="CCM">
+    <title lang="id">Tales Of Larceny</title>
+  </programme>
+  <programme start="20210824200000 +0700" stop="20210824214000 +0700" channel="CCM">
+    <title lang="id">Flying Guillotine 2</title>
+  </programme>
+  <programme start="20210824214000 +0700" stop="20210824232500 +0700" channel="CCM">
+    <title lang="id">The Shadow Boxing</title>
+  </programme>
+  <programme start="20210824232500 +0700" stop="20210825010500 +0700" channel="CCM">
+    <title lang="id">The Proud Youth</title>
+  </programme>
+  <programme start="20210825010500 +0700" stop="20210825025000 +0700" channel="CCM">
+    <title lang="id">Winner Takes All</title>
+  </programme>
+  <programme start="20210825025000 +0700" stop="20210825043000 +0700" channel="CCM">
+    <title lang="id">Monkey Kung Fu</title>
+  </programme>
+  <programme start="20210825043000 +0700" stop="20210825063500 +0700" channel="CCM">
+    <title lang="id">The Blue And The Black</title>
+  </programme>
+  <programme start="20210825063500 +0700" stop="20210825083500 +0700" channel="CCM">
+    <title lang="id">The Millionaire Chase</title>
+  </programme>
+  <programme start="20210825083500 +0700" stop="20210825100500 +0700" channel="CCM">
+    <title lang="id">A Taste Of Cold Steel</title>
+  </programme>
+  <programme start="20210825100500 +0700" stop="20210825115000 +0700" channel="CCM">
+    <title lang="id">Dawn Will Come</title>
+  </programme>
+  <programme start="20210825115000 +0700" stop="20210825132000 +0700" channel="CCM">
+    <title lang="id">Heroes Of Sung</title>
+  </programme>
+  <programme start="20210825132000 +0700" stop="20210825150000 +0700" channel="CCM">
+    <title lang="id">How To Pick Girls Up!</title>
+  </programme>
+  <programme start="20210825150000 +0700" stop="20210825164000 +0700" channel="CCM">
+    <title lang="id">Temple Of The Red Lotus</title>
+  </programme>
+  <programme start="20210825164000 +0700" stop="20210825182000 +0700" channel="CCM">
+    <title lang="id">Lovers Blades</title>
+  </programme>
+  <programme start="20210825182000 +0700" stop="20210825200000 +0700" channel="CCM">
+    <title lang="id">Little Dragon Maiden</title>
+  </programme>
+  <programme start="20210825200000 +0700" stop="20210825214000 +0700" channel="CCM">
+    <title lang="id">Girl With The Diamond Slipper</title>
+  </programme>
+  <programme start="20210825214000 +0700" stop="20210825231500 +0700" channel="CCM">
+    <title lang="id">Secret Service Of Imperial...</title>
+  </programme>
+  <programme start="20210825231500 +0700" stop="20210826004500 +0700" channel="CCM">
+    <title lang="id">The Cave Of Silken Web</title>
+  </programme>
+  <programme start="20210826004500 +0700" stop="20210826023000 +0700" channel="CCM">
+    <title lang="id">Iron Bodyguard</title>
+  </programme>
+  <programme start="20210826023000 +0700" stop="20210826041000 +0700" channel="CCM">
+    <title lang="id">Law Or Justice</title>
+  </programme>
+  <programme start="20210826041000 +0700" stop="20210826055000 +0700" channel="CCM">
+    <title lang="id">Return Of Reincarnated...</title>
+  </programme>
+  <programme start="20210826055000 +0700" stop="20210826072000 +0700" channel="CCM">
+    <title lang="id">The Swift Knight</title>
+  </programme>
+  <programme start="20210826072000 +0700" stop="20210826085500 +0700" channel="CCM">
+    <title lang="id">Mr. Virgin</title>
+  </programme>
+  <programme start="20210826085500 +0700" stop="20210826104000 +0700" channel="CCM">
+    <title lang="id">The Silent Swordsman</title>
+  </programme>
+  <programme start="20210826104000 +0700" stop="20210826122000 +0700" channel="CCM">
+    <title lang="id">Mahjong Heroes</title>
+  </programme>
+  <programme start="20210826122000 +0700" stop="20210826135500 +0700" channel="CCM">
+    <title lang="id">Swift Sword</title>
+  </programme>
+  <programme start="20210826135500 +0700" stop="20210826152000 +0700" channel="CCM">
+    <title lang="id">The Amorous Lotus Pan</title>
+  </programme>
+  <programme start="20210826152000 +0700" stop="20210826164500 +0700" channel="CCM">
+    <title lang="id">Gang Master</title>
+  </programme>
+  <programme start="20210826164500 +0700" stop="20210826182500 +0700" channel="CCM">
+    <title lang="id">House Of Traps</title>
+  </programme>
+  <programme start="20210826182500 +0700" stop="20210826200000 +0700" channel="CCM">
+    <title lang="id">The Emperor And The Minister</title>
+  </programme>
+  <programme start="20210826200000 +0700" stop="20210826214000 +0700" channel="CCM">
+    <title lang="id">Love On Delivery</title>
+  </programme>
+  <programme start="20210826214000 +0700" stop="20210826232500 +0700" channel="CCM">
+    <title lang="id">36 Secrets Of Courtship</title>
+  </programme>
+  <programme start="20210826232500 +0700" stop="20210827011000 +0700" channel="CCM">
+    <title lang="id">The Dragon Creek</title>
+  </programme>
+  <programme start="20210827011000 +0700" stop="20210827025500 +0700" channel="CCM">
+    <title lang="id">Madam White Snake</title>
+  </programme>
+  <programme start="20210827025500 +0700" stop="20210827043500 +0700" channel="CCM">
+    <title lang="id">Moods Of Love</title>
+  </programme>
+  <programme start="20210827043500 +0700" stop="20210827062000 +0700" channel="CCM">
+    <title lang="id">Life Gamble</title>
+  </programme>
+  <programme start="20210827062000 +0700" stop="20210827081500 +0700" channel="CCM">
+    <title lang="id">The Treasure Hunters</title>
+  </programme>
+  <programme start="20210827081500 +0700" stop="20210827095000 +0700" channel="CCM">
+    <title lang="id">Bat Without Wings</title>
+  </programme>
+  <programme start="20210827095000 +0700" stop="20210827112500 +0700" channel="CCM">
+    <title lang="id">Crazy Shaolin Disciples</title>
+  </programme>
+  <programme start="20210827112500 +0700" stop="20210827125500 +0700" channel="CCM">
+    <title lang="id">The Secret Of The Dirk</title>
+  </programme>
+  <programme start="20210827125500 +0700" stop="20210827142000 +0700" channel="CCM">
+    <title lang="id">Songfest</title>
+  </programme>
+  <programme start="20210827142000 +0700" stop="20210827162500 +0700" channel="CCM">
+    <title lang="id">Empress Wu</title>
+  </programme>
+  <programme start="20210827162500 +0700" stop="20210827181500 +0700" channel="CCM">
+    <title lang="id">The Golden Buddha</title>
+  </programme>
+  <programme start="20210827181500 +0700" stop="20210827200000 +0700" channel="CCM">
+    <title lang="id">Love In A Fallen City</title>
+  </programme>
+  <programme start="20210827200000 +0700" stop="20210827214500 +0700" channel="CCM">
+    <title lang="id">The Crimson Charm</title>
+  </programme>
+  <programme start="20210827214500 +0700" stop="20210827232500 +0700" channel="CCM">
+    <title lang="id">Killer Constable</title>
+  </programme>
+  <programme start="20210827232500 +0700" stop="20210828012500 +0700" channel="CCM">
+    <title lang="id">The Assassin</title>
+  </programme>
+  <programme start="20210828012500 +0700" stop="20210828030500 +0700" channel="CCM">
+    <title lang="id">Buddha's Palm</title>
+  </programme>
+  <programme start="20210828030500 +0700" stop="20210828044500 +0700" channel="CCM">
+    <title lang="id">Facets Of Love</title>
+  </programme>
+  <programme start="20210828044500 +0700" stop="20210828062500 +0700" channel="CCM">
+    <title lang="id">Lover's Rock</title>
+  </programme>
+  <programme start="20210828062500 +0700" stop="20210828081000 +0700" channel="CCM">
+    <title lang="id">The Fantastic Magic Baby</title>
+  </programme>
+  <programme start="20210828081000 +0700" stop="20210828095000 +0700" channel="CCM">
+    <title lang="id">Family Light Affair</title>
+  </programme>
+  <programme start="20210828095000 +0700" stop="20210828112000 +0700" channel="CCM">
+    <title lang="id">Call To Arms</title>
+  </programme>
+  <programme start="20210828112000 +0700" stop="20210828125500 +0700" channel="CCM">
+    <title lang="id">Look Out, Officer!</title>
+  </programme>
+  <programme start="20210828125500 +0700" stop="20210828145500 +0700" channel="CCM">
+    <title lang="id">Angel With The Iron Fists</title>
+  </programme>
+  <programme start="20210828145500 +0700" stop="20210828163500 +0700" channel="CCM">
+    <title lang="id">Love With The Perfect Stranger</title>
+  </programme>
+  <programme start="20210828163500 +0700" stop="20210828182000 +0700" channel="CCM">
+    <title lang="id">Swordswomen Three</title>
+  </programme>
+  <programme start="20210828182000 +0700" stop="20210828200000 +0700" channel="CCM">
+    <title lang="id">Na Cha The Great</title>
+  </programme>
+  <programme start="20210828200000 +0700" stop="20210828214500 +0700" channel="CCM">
+    <title lang="id">Duel For Gold</title>
+  </programme>
+  <programme start="20210828214500 +0700" stop="20210828231500 +0700" channel="CCM">
+    <title lang="id">Enchanting Shadow</title>
+  </programme>
+  <programme start="20210828231500 +0700" stop="20210829010000 +0700" channel="CCM">
+    <title lang="id">The New Shaolin Boxers</title>
+  </programme>
+  <programme start="20210829010000 +0700" stop="20210829024000 +0700" channel="CCM">
+    <title lang="id">Cop Shop Babes</title>
+  </programme>
+  <programme start="20210829024000 +0700" stop="20210829042000 +0700" channel="CCM">
+    <title lang="id">How To Choose A Royal Bride</title>
+  </programme>
+  <programme start="20210829042000 +0700" stop="20210829060000 +0700" channel="CCM">
+    <title lang="id">Men From The Monastery</title>
+  </programme>
+  <programme start="20210829060000 +0700" stop="20210829080500 +0700" channel="CCM">
+    <title lang="id">Vengeance Of A Snow Girl</title>
+  </programme>
+  <programme start="20210829080500 +0700" stop="20210829100000 +0700" channel="CCM">
+    <title lang="id">Marco Polo</title>
+  </programme>
+  <programme start="20210829100000 +0700" stop="20210829114000 +0700" channel="CCM">
+    <title lang="id">Blue Skies</title>
+  </programme>
+  <programme start="20210829114000 +0700" stop="20210829132000 +0700" channel="CCM">
+    <title lang="id">Flying Guillotine 2</title>
+  </programme>
+  <programme start="20210829132000 +0700" stop="20210829150500 +0700" channel="CCM">
+    <title lang="id">Hong Kong 73</title>
+  </programme>
+  <programme start="20210829150500 +0700" stop="20210829164500 +0700" channel="CCM">
+    <title lang="id">Perfect Girls</title>
+  </programme>
+  <programme start="20210829164500 +0700" stop="20210829181500 +0700" channel="CCM">
+    <title lang="id">The Land Of Many Perfumes</title>
+  </programme>
+  <programme start="20210829181500 +0700" stop="20210829200000 +0700" channel="CCM">
+    <title lang="id">The Lady Hermit</title>
+  </programme>
+  <programme start="20210829200000 +0700" stop="20210829215500 +0700" channel="CCM">
+    <title lang="id">Sons Of Good Earth</title>
+  </programme>
+  <programme start="20210829215500 +0700" stop="20210829234500 +0700" channel="CCM">
+    <title lang="id">Return Of The Sentimental...</title>
+  </programme>
+  <programme start="20210829234500 +0700" stop="20210830012500 +0700" channel="CCM">
+    <title lang="id">Diau Charn</title>
+  </programme>
+  <programme start="20210830012500 +0700" stop="20210830031500 +0700" channel="CCM">
+    <title lang="id">Challenge Of The Gamesters</title>
+  </programme>
+  <programme start="20210830031500 +0700" stop="20210830052000 +0700" channel="CCM">
+    <title lang="id">Shaolin Temple</title>
+  </programme>
+  <programme start="20210830052000 +0700" stop="20210830072000 +0700" channel="CCM">
+    <title lang="id">That Man In Chang-An</title>
+  </programme>
+  <programme start="20210830072000 +0700" stop="20210830091000 +0700" channel="CCM">
+    <title lang="id">Return Of The Crazy Bumpkins</title>
+  </programme>
+  <programme start="20210830091000 +0700" stop="20210830104500 +0700" channel="CCM">
+    <title lang="id">The Mighty One</title>
+  </programme>
+  <programme start="20210830104500 +0700" stop="20210830122500 +0700" channel="CCM">
+    <title lang="id">Finger Of Doom</title>
+  </programme>
+  <programme start="20210830122500 +0700" stop="20210830142500 +0700" channel="CCM">
+    <title lang="id">Three Sinners</title>
+  </programme>
+  <programme start="20210830142500 +0700" stop="20210830161000 +0700" channel="CCM">
+    <title lang="id">The Tigress Of Shaolin</title>
+  </programme>
+  <programme start="20210830161000 +0700" stop="20210830175500 +0700" channel="CCM">
+    <title lang="id">Heaven Sword &amp; Dragon Sabre 2</title>
+  </programme>
+  <programme start="20210830175500 +0700" stop="20210830200000 +0700" channel="CCM">
+    <title lang="id">The Blue And The Black</title>
+  </programme>
+  <programme start="20210830200000 +0700" stop="20210830212500 +0700" channel="CCM">
+    <title lang="id">The Amorous Lotus Pan</title>
+  </programme>
+  <programme start="20210830212500 +0700" stop="20210830231000 +0700" channel="CCM">
+    <title lang="id">Death Valley</title>
+  </programme>
+  <programme start="20210830231000 +0700" stop="20210831005000 +0700" channel="CCM">
+    <title lang="id">Hong Kong Hong Kong</title>
+  </programme>
+  <programme start="20210831005000 +0700" stop="20210831023500 +0700" channel="CCM">
+    <title lang="id">The Sentimental Swordsman</title>
+  </programme>
+  <programme start="20210831023500 +0700" stop="20210831043500 +0700" channel="CCM">
+    <title lang="id">West Chamber</title>
+  </programme>
+  <programme start="20210831043500 +0700" stop="20210831063000 +0700" channel="CCM">
+    <title lang="id">The Sword Of Swords</title>
+  </programme>
+  <programme start="20210831063000 +0700" stop="20210831075500 +0700" channel="CCM">
+    <title lang="id">The Bride From Hell</title>
+  </programme>
+  <programme start="20210831075500 +0700" stop="20210831093500 +0700" channel="CCM">
+    <title lang="id">The Twin Bracelets</title>
+  </programme>
+  <programme start="20210831093500 +0700" stop="20210831112000 +0700" channel="CCM">
+    <title lang="id">Full Moon Scimitar</title>
+  </programme>
+  <programme start="20210831112000 +0700" stop="20210831130500 +0700" channel="CCM">
+    <title lang="id">Justice, My Foot!</title>
+  </programme>
+  <programme start="20210831130500 +0700" stop="20210831144000 +0700" channel="CCM">
+    <title lang="id">What Price Honesty</title>
+  </programme>
+  <programme start="20210831144000 +0700" stop="20210831162500 +0700" channel="CCM">
+    <title lang="id">36 Secrets Of Courtship</title>
+  </programme>
+  <programme start="20210831162500 +0700" stop="20210831181000 +0700" channel="CCM">
+    <title lang="id">The Fake Ghost Catchers</title>
+  </programme>
+  <programme start="20210831181000 +0700" stop="20210831200000 +0700" channel="CCM">
+    <title lang="id">Heaven Sword &amp; Dragon Sabre</title>
+  </programme>
+  <programme start="20210831200000 +0700" stop="20210831220000 +0700" channel="CCM">
+    <title lang="id">The Three Smiles</title>
+  </programme>
+  <programme start="20210831220000 +0700" stop="20210831234500 +0700" channel="CCM">
+    <title lang="id">Rivals Of Kung Fu</title>
+  </programme>
+  <programme start="20210831234500 +0700" stop="20210901013000 +0700" channel="CCM">
+    <title lang="id">The Flying Mr. B</title>
+  </programme>
+  <programme start="20210812013000 +0700" stop="20210812031500 +0700" channel="Cinema World">
+    <title lang="id">Murders In Rochefort</title>
+  </programme>
+  <programme start="20210812031500 +0700" stop="20210812050000 +0700" channel="Cinema World">
+    <title lang="id">Its Your Turn Honey</title>
+  </programme>
+  <programme start="20210812050000 +0700" stop="20210812063000 +0700" channel="Cinema World">
+    <title lang="id">That Thing Called Love</title>
+  </programme>
+  <programme start="20210812063000 +0700" stop="20210812080500 +0700" channel="Cinema World">
+    <title lang="id">Drifters</title>
+  </programme>
+  <programme start="20210812080500 +0700" stop="20210812093500 +0700" channel="Cinema World">
+    <title lang="id">A Summer in Barcelona</title>
+  </programme>
+  <programme start="20210812093500 +0700" stop="20210812111500 +0700" channel="Cinema World">
+    <title lang="id">4 Kings</title>
+  </programme>
+  <programme start="20210812111500 +0700" stop="20210812124500 +0700" channel="Cinema World">
+    <title lang="id">El Mudo</title>
+  </programme>
+  <programme start="20210812124500 +0700" stop="20210812142500 +0700" channel="Cinema World">
+    <title lang="id">The Penguin Move</title>
+  </programme>
+  <programme start="20210812142500 +0700" stop="20210812160000 +0700" channel="Cinema World">
+    <title lang="id">The Devil Inside</title>
+  </programme>
+  <programme start="20210812160000 +0700" stop="20210812162000 +0700" channel="Cinema World">
+    <title lang="id">Uncle Goose Waits For A Phone Call</title>
+  </programme>
+  <programme start="20210812162000 +0700" stop="20210812180000 +0700" channel="Cinema World">
+    <title lang="id">Single By Contract</title>
+  </programme>
+  <programme start="20210812180000 +0700" stop="20210812200000 +0700" channel="Cinema World">
+    <title lang="id">When We Leave</title>
+  </programme>
+  <programme start="20210812200000 +0700" stop="20210812213500 +0700" channel="Cinema World">
+    <title lang="id">A Summer in Sicily</title>
+  </programme>
+  <programme start="20210812213500 +0700" stop="20210812234000 +0700" channel="Cinema World">
+    <title lang="id">In the Heart of the World</title>
+  </programme>
+  <programme start="20210812234000 +0700" stop="20210813012000 +0700" channel="Cinema World">
+    <title lang="id">Drifters</title>
+  </programme>
+  <programme start="20210812215500 +0700" stop="20210812225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210812225000 +0700" stop="20210812234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210812234500 +0700" stop="20210813004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210813004000 +0700" stop="20210813013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210813013500 +0700" stop="20210813023000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210813023000 +0700" stop="20210813032500 +0700" channel="Fox Life HD">
+    <title lang="id">Bluff City Law</title>
+  </programme>
+  <programme start="20210813032500 +0700" stop="20210813042000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210813042000 +0700" stop="20210813051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210813051500 +0700" stop="20210813061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210813061000 +0700" stop="20210813070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210813070500 +0700" stop="20210813080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210813080000 +0700" stop="20210813085500 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210813085500 +0700" stop="20210813095000 +0700" channel="Fox Life HD">
+    <title lang="id">Bluff City Law</title>
+  </programme>
+  <programme start="20210813095000 +0700" stop="20210813104500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210813104500 +0700" stop="20210813114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210813114000 +0700" stop="20210813123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210813123500 +0700" stop="20210813133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210813133000 +0700" stop="20210813142500 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210813142500 +0700" stop="20210813152000 +0700" channel="Fox Life HD">
+    <title lang="id">Bluff City Law</title>
+  </programme>
+  <programme start="20210813152000 +0700" stop="20210813161500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210813161500 +0700" stop="20210813171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210813171000 +0700" stop="20210813180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210813180500 +0700" stop="20210813190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210813190000 +0700" stop="20210813210000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210813210000 +0700" stop="20210813220000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210813220000 +0700" stop="20210813225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210813225000 +0700" stop="20210813234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210813234500 +0700" stop="20210814004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210814004000 +0700" stop="20210814013000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210814013000 +0700" stop="20210814023000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210814023000 +0700" stop="20210814032500 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210814032500 +0700" stop="20210814051500 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210814051500 +0700" stop="20210814061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210814061000 +0700" stop="20210814070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210814070500 +0700" stop="20210814075500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210814075500 +0700" stop="20210814085500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210814085500 +0700" stop="20210814095000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210814095000 +0700" stop="20210814114000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210814114000 +0700" stop="20210814123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210814123500 +0700" stop="20210814132500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210814132500 +0700" stop="20210814142500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210814142500 +0700" stop="20210814152000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210814152000 +0700" stop="20210814171000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210814171000 +0700" stop="20210814180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210814180500 +0700" stop="20210814190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210814190000 +0700" stop="20210814200000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210814200000 +0700" stop="20210814210000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210814210000 +0700" stop="20210814225000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210814225000 +0700" stop="20210814234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210814234500 +0700" stop="20210815004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210815004000 +0700" stop="20210815013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210815013500 +0700" stop="20210815023000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210815023000 +0700" stop="20210815032500 +0700" channel="Fox Life HD">
+    <title lang="id">Zoey's Extraordinary</title>
+  </programme>
+  <programme start="20210815032500 +0700" stop="20210815051500 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210815051500 +0700" stop="20210815061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210815061000 +0700" stop="20210815070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210815070500 +0700" stop="20210815080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210815080000 +0700" stop="20210815085500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210815085500 +0700" stop="20210815095000 +0700" channel="Fox Life HD">
+    <title lang="id">Zoey's Extraordinary</title>
+  </programme>
+  <programme start="20210815095000 +0700" stop="20210815114000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210815114000 +0700" stop="20210815123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210815123500 +0700" stop="20210815133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210815133000 +0700" stop="20210815142500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210815142500 +0700" stop="20210815152000 +0700" channel="Fox Life HD">
+    <title lang="id">Zoey's Extraordinary</title>
+  </programme>
+  <programme start="20210815152000 +0700" stop="20210815171000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210815171000 +0700" stop="20210815180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210815180500 +0700" stop="20210815190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210815190000 +0700" stop="20210815200000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210815200000 +0700" stop="20210815210000 +0700" channel="Fox Life HD">
+    <title lang="id">Zoey's Extraordinary</title>
+  </programme>
+  <programme start="20210815210000 +0700" stop="20210815225000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210815225000 +0700" stop="20210815234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210815234500 +0700" stop="20210816004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210816004000 +0700" stop="20210816013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210816013500 +0700" stop="20210816023000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210816023000 +0700" stop="20210816032500 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210816032500 +0700" stop="20210816042000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210816042000 +0700" stop="20210816051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210816051500 +0700" stop="20210816061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210816061000 +0700" stop="20210816070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210816070500 +0700" stop="20210816080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210816080000 +0700" stop="20210816085500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210816085500 +0700" stop="20210816095000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210816095000 +0700" stop="20210816104500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210816104500 +0700" stop="20210816114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210816114000 +0700" stop="20210816123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210816123500 +0700" stop="20210816133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210816133000 +0700" stop="20210816142500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210816142500 +0700" stop="20210816152000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210816152000 +0700" stop="20210816161500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210816161500 +0700" stop="20210816171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210816171000 +0700" stop="20210816180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210816180500 +0700" stop="20210816190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210816190000 +0700" stop="20210816200000 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210816200000 +0700" stop="20210816210000 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210816210000 +0700" stop="20210816215500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210816215500 +0700" stop="20210816225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210816225000 +0700" stop="20210816234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210816234500 +0700" stop="20210817004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210817004000 +0700" stop="20210817013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210817013500 +0700" stop="20210817032000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210817032000 +0700" stop="20210817042000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210817042000 +0700" stop="20210817051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210817051500 +0700" stop="20210817061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210817061000 +0700" stop="20210817070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210817070500 +0700" stop="20210817080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210817080000 +0700" stop="20210817094500 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210817094500 +0700" stop="20210817104500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210817104500 +0700" stop="20210817114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210817114000 +0700" stop="20210817123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210817123500 +0700" stop="20210817133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210817133000 +0700" stop="20210817151500 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210817151500 +0700" stop="20210817161500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210817161500 +0700" stop="20210817171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210817171000 +0700" stop="20210817180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210817180500 +0700" stop="20210817190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210817190000 +0700" stop="20210817210000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210817210000 +0700" stop="20210817215500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210817215500 +0700" stop="20210817225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210817225000 +0700" stop="20210817234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210817234500 +0700" stop="20210818004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210818004000 +0700" stop="20210818013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210818013500 +0700" stop="20210818023000 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210818023000 +0700" stop="20210818032500 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210818032500 +0700" stop="20210818042000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210818042000 +0700" stop="20210818051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210818051500 +0700" stop="20210818061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210818061000 +0700" stop="20210818070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210818070500 +0700" stop="20210818080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210818080000 +0700" stop="20210818085500 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210818085500 +0700" stop="20210818095000 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210818095000 +0700" stop="20210818104500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210818104500 +0700" stop="20210818114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210818114000 +0700" stop="20210818123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210818123500 +0700" stop="20210818133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210818133000 +0700" stop="20210818142500 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210818142500 +0700" stop="20210818152000 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210818152000 +0700" stop="20210818161500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210818161500 +0700" stop="20210818171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210818171000 +0700" stop="20210818180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210818180500 +0700" stop="20210818190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210818190000 +0700" stop="20210818200000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210818200000 +0700" stop="20210818203000 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210818203000 +0700" stop="20210818210000 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210818210000 +0700" stop="20210818215500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210818215500 +0700" stop="20210818225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210818225000 +0700" stop="20210818234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210818234500 +0700" stop="20210819004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210819004000 +0700" stop="20210819013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210819013500 +0700" stop="20210819032500 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210819032500 +0700" stop="20210819042000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210819042000 +0700" stop="20210819051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210819051500 +0700" stop="20210819061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210819061000 +0700" stop="20210819070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210819070500 +0700" stop="20210819080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210819080000 +0700" stop="20210819095000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210819095000 +0700" stop="20210819104500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210819104500 +0700" stop="20210819114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210819114000 +0700" stop="20210819123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210819123500 +0700" stop="20210819133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210819133000 +0700" stop="20210819152000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210819152000 +0700" stop="20210819161500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210819161500 +0700" stop="20210819171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210819171000 +0700" stop="20210819180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210819180500 +0700" stop="20210819190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210819190000 +0700" stop="20210819200000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210819200000 +0700" stop="20210819210000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210819210000 +0700" stop="20210819215500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210819215500 +0700" stop="20210819225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210819225000 +0700" stop="20210819234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210819234500 +0700" stop="20210820004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210820004000 +0700" stop="20210820013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210820013500 +0700" stop="20210820023000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210820023000 +0700" stop="20210820025500 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210820025500 +0700" stop="20210820032500 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210820032500 +0700" stop="20210820042000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210820042000 +0700" stop="20210820051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210820051500 +0700" stop="20210820061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210820061000 +0700" stop="20210820070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210820070500 +0700" stop="20210820080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210820080000 +0700" stop="20210820085500 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210820085500 +0700" stop="20210820092000 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210820092000 +0700" stop="20210820095000 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210820095000 +0700" stop="20210820104500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210820104500 +0700" stop="20210820114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210820114000 +0700" stop="20210820123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210820123500 +0700" stop="20210820133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210820133000 +0700" stop="20210820142500 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210820142500 +0700" stop="20210820145000 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210820145000 +0700" stop="20210820152000 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210820152000 +0700" stop="20210820161500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210820161500 +0700" stop="20210820171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210820171000 +0700" stop="20210820180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210820180500 +0700" stop="20210820190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210820190000 +0700" stop="20210820210000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210820210000 +0700" stop="20210820220000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210820220000 +0700" stop="20210820225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210820225000 +0700" stop="20210820234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210820234500 +0700" stop="20210821004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210821004000 +0700" stop="20210821013000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210821013000 +0700" stop="20210821023000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210821023000 +0700" stop="20210821032500 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210821032500 +0700" stop="20210821051500 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210821051500 +0700" stop="20210821061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210821061000 +0700" stop="20210821070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210821070500 +0700" stop="20210821075500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210821075500 +0700" stop="20210821085500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210821085500 +0700" stop="20210821095000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210821095000 +0700" stop="20210821114000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210821114000 +0700" stop="20210821123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210821123500 +0700" stop="20210821132500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210821132500 +0700" stop="20210821142500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210821142500 +0700" stop="20210821152000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210821152000 +0700" stop="20210821171000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210821171000 +0700" stop="20210821180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210821180500 +0700" stop="20210821190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210821190000 +0700" stop="20210821200000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210821200000 +0700" stop="20210821210000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210821210000 +0700" stop="20210821225000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210821225000 +0700" stop="20210821234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210821234500 +0700" stop="20210822004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210822004000 +0700" stop="20210822013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210822013500 +0700" stop="20210822023000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210822023000 +0700" stop="20210822025500 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210822025500 +0700" stop="20210822032500 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210822032500 +0700" stop="20210822051500 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210822051500 +0700" stop="20210822061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210822061000 +0700" stop="20210822070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210822070500 +0700" stop="20210822080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210822080000 +0700" stop="20210822085500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210822085500 +0700" stop="20210822092000 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210822092000 +0700" stop="20210822095000 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210822095000 +0700" stop="20210822114000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210822114000 +0700" stop="20210822123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210822123500 +0700" stop="20210822133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210822133000 +0700" stop="20210822142500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210822142500 +0700" stop="20210822145000 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210822145000 +0700" stop="20210822152000 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210822152000 +0700" stop="20210822171000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210822171000 +0700" stop="20210822180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210822180500 +0700" stop="20210822190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210822190000 +0700" stop="20210822200000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210822200000 +0700" stop="20210822203000 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210822203000 +0700" stop="20210822210000 +0700" channel="Fox Life HD">
+    <title lang="id">The Unicorn</title>
+  </programme>
+  <programme start="20210822210000 +0700" stop="20210822225000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210822225000 +0700" stop="20210822234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210822234500 +0700" stop="20210823004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210823004000 +0700" stop="20210823013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210823013500 +0700" stop="20210823023000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210823023000 +0700" stop="20210823032500 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210823032500 +0700" stop="20210823042000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210823042000 +0700" stop="20210823051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210823051500 +0700" stop="20210823061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210823061000 +0700" stop="20210823070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210823070500 +0700" stop="20210823080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210823080000 +0700" stop="20210823085500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210823085500 +0700" stop="20210823095000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210823095000 +0700" stop="20210823104500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210823104500 +0700" stop="20210823114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210823114000 +0700" stop="20210823123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210823123500 +0700" stop="20210823133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210823133000 +0700" stop="20210823142500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210823142500 +0700" stop="20210823152000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210823152000 +0700" stop="20210823161500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210823161500 +0700" stop="20210823171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210823171000 +0700" stop="20210823180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210823180500 +0700" stop="20210823190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210823190000 +0700" stop="20210823200000 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210823200000 +0700" stop="20210823210000 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210823210000 +0700" stop="20210823215500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210823215500 +0700" stop="20210823225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210823225000 +0700" stop="20210823234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210823234500 +0700" stop="20210824004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210824004000 +0700" stop="20210824013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210824013500 +0700" stop="20210824032000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210824032000 +0700" stop="20210824042000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210824042000 +0700" stop="20210824051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210824051500 +0700" stop="20210824061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210824061000 +0700" stop="20210824070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210824070500 +0700" stop="20210824080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210824080000 +0700" stop="20210824094500 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210824094500 +0700" stop="20210824104500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210824104500 +0700" stop="20210824114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210824114000 +0700" stop="20210824123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210824123500 +0700" stop="20210824133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210824133000 +0700" stop="20210824151500 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210824151500 +0700" stop="20210824161500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210824161500 +0700" stop="20210824171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210824171000 +0700" stop="20210824180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210824180500 +0700" stop="20210824190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210824190000 +0700" stop="20210824210000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210824210000 +0700" stop="20210824215500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210824215500 +0700" stop="20210824225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210824225000 +0700" stop="20210824234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210824234500 +0700" stop="20210825004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210825004000 +0700" stop="20210825013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210825013500 +0700" stop="20210825023000 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210825023000 +0700" stop="20210825032500 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210825032500 +0700" stop="20210825042000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210825042000 +0700" stop="20210825051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210825051500 +0700" stop="20210825061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210825061000 +0700" stop="20210825070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210825070500 +0700" stop="20210825080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210825080000 +0700" stop="20210825085500 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210825085500 +0700" stop="20210825095000 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210825095000 +0700" stop="20210825104500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210825104500 +0700" stop="20210825114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210825114000 +0700" stop="20210825123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210825123500 +0700" stop="20210825133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210825133000 +0700" stop="20210825142500 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210825142500 +0700" stop="20210825152000 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210825152000 +0700" stop="20210825161500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210825161500 +0700" stop="20210825171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210825171000 +0700" stop="20210825180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210825180500 +0700" stop="20210825190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210825190000 +0700" stop="20210825210000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210825210000 +0700" stop="20210825215500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210825215500 +0700" stop="20210825225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210825225000 +0700" stop="20210825234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210825234500 +0700" stop="20210826004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210826004000 +0700" stop="20210826013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210826013500 +0700" stop="20210826032500 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210826032500 +0700" stop="20210826042000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210826042000 +0700" stop="20210826051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210826051500 +0700" stop="20210826061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210826061000 +0700" stop="20210826070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210826070500 +0700" stop="20210826080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210826080000 +0700" stop="20210826095000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210826095000 +0700" stop="20210826104500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210826104500 +0700" stop="20210826114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210826114000 +0700" stop="20210826123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210826123500 +0700" stop="20210826133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210826133000 +0700" stop="20210826152000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210826152000 +0700" stop="20210826161500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210826161500 +0700" stop="20210826171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210826171000 +0700" stop="20210826180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210826180500 +0700" stop="20210826190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210826190000 +0700" stop="20210826200000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210826200000 +0700" stop="20210826210000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210826210000 +0700" stop="20210826215500 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210826215500 +0700" stop="20210826225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210826225000 +0700" stop="20210826234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210826234500 +0700" stop="20210827004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210827004000 +0700" stop="20210827013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210827013500 +0700" stop="20210827032500 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210827032500 +0700" stop="20210827042000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210827042000 +0700" stop="20210827051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210827051500 +0700" stop="20210827061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210827061000 +0700" stop="20210827070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210827070500 +0700" stop="20210827080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210827080000 +0700" stop="20210827095000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210827095000 +0700" stop="20210827104500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210827104500 +0700" stop="20210827114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210827114000 +0700" stop="20210827123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210827123500 +0700" stop="20210827133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210827133000 +0700" stop="20210827152000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210827152000 +0700" stop="20210827161500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210827161500 +0700" stop="20210827171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210827171000 +0700" stop="20210827180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210827180500 +0700" stop="20210827190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210827190000 +0700" stop="20210827210000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210827210000 +0700" stop="20210827220000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210827220000 +0700" stop="20210827225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210827225000 +0700" stop="20210827234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210827234500 +0700" stop="20210828004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210828004000 +0700" stop="20210828013000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210828013000 +0700" stop="20210828023000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210828023000 +0700" stop="20210828032500 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210828032500 +0700" stop="20210828051500 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210828051500 +0700" stop="20210828061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210828061000 +0700" stop="20210828070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210828070500 +0700" stop="20210828075500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210828075500 +0700" stop="20210828085500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210828085500 +0700" stop="20210828095000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210828095000 +0700" stop="20210828114000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210828114000 +0700" stop="20210828123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210828123500 +0700" stop="20210828132500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210828132500 +0700" stop="20210828142500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210828142500 +0700" stop="20210828152000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210828152000 +0700" stop="20210828171000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210828171000 +0700" stop="20210828180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210828180500 +0700" stop="20210828190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210828190000 +0700" stop="20210828200000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210828200000 +0700" stop="20210828210000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210828210000 +0700" stop="20210828225000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210828225000 +0700" stop="20210828234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210828234500 +0700" stop="20210829004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210829004000 +0700" stop="20210829013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210829013500 +0700" stop="20210829023000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210829023000 +0700" stop="20210829032500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210829032500 +0700" stop="20210829051500 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210829051500 +0700" stop="20210829061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210829061000 +0700" stop="20210829070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210829070500 +0700" stop="20210829080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210829080000 +0700" stop="20210829085500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210829085500 +0700" stop="20210829095000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210829095000 +0700" stop="20210829114000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210829114000 +0700" stop="20210829123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210829123500 +0700" stop="20210829133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210829133000 +0700" stop="20210829142500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210829142500 +0700" stop="20210829152000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210829152000 +0700" stop="20210829171000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210829171000 +0700" stop="20210829180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210829180500 +0700" stop="20210829190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210829190000 +0700" stop="20210829200000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210829200000 +0700" stop="20210829210000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210829210000 +0700" stop="20210829225000 +0700" channel="Fox Life HD">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210829225000 +0700" stop="20210829234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210829234500 +0700" stop="20210830004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210830004000 +0700" stop="20210830013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210830013500 +0700" stop="20210830023000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210830023000 +0700" stop="20210830032500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210830032500 +0700" stop="20210830042000 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210830042000 +0700" stop="20210830051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210830051500 +0700" stop="20210830061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210830061000 +0700" stop="20210830070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210830070500 +0700" stop="20210830080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210830080000 +0700" stop="20210830085500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210830085500 +0700" stop="20210830095000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210830095000 +0700" stop="20210830104500 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210830104500 +0700" stop="20210830114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210830114000 +0700" stop="20210830123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210830123500 +0700" stop="20210830133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210830133000 +0700" stop="20210830142500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210830142500 +0700" stop="20210830152000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210830152000 +0700" stop="20210830161500 +0700" channel="Fox Life HD">
+    <title lang="id">In The Dark</title>
+  </programme>
+  <programme start="20210830161500 +0700" stop="20210830171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210830171000 +0700" stop="20210830180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210830180500 +0700" stop="20210830190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210830190000 +0700" stop="20210830200000 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210830200000 +0700" stop="20210830210000 +0700" channel="Fox Life HD">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210830210000 +0700" stop="20210830215500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Doctor</title>
+  </programme>
+  <programme start="20210830215500 +0700" stop="20210830225000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210830225000 +0700" stop="20210830234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210830234500 +0700" stop="20210831004000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210831004000 +0700" stop="20210831013500 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210831013500 +0700" stop="20210831032000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210831032000 +0700" stop="20210831042000 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210831042000 +0700" stop="20210831051500 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210831051500 +0700" stop="20210831061000 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210831061000 +0700" stop="20210831070500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210831070500 +0700" stop="20210831080000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210831080000 +0700" stop="20210831094500 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210831094500 +0700" stop="20210831104500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210831104500 +0700" stop="20210831114000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210831114000 +0700" stop="20210831123500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210831123500 +0700" stop="20210831133000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210831133000 +0700" stop="20210831151500 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210831151500 +0700" stop="20210831161500 +0700" channel="Fox Life HD">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210831161500 +0700" stop="20210831171000 +0700" channel="Fox Life HD">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210831171000 +0700" stop="20210831180500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210831180500 +0700" stop="20210831190000 +0700" channel="Fox Life HD">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210831190000 +0700" stop="20210831210000 +0700" channel="Fox Life HD">
+    <title lang="id">America's Got Talent</title>
+  </programme>
+  <programme start="20210831210000 +0700" stop="20210831215500 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210831215500 +0700" stop="20210831225000 +0700" channel="Fox Life HD">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210831225000 +0700" stop="20210831234500 +0700" channel="Fox Life HD">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
   <programme start="20210812210000 +0700" stop="20210812220000 +0700" channel="Animal Planet">
     <title lang="id">Wild Africa S1: Sand River</title>
   </programme>
