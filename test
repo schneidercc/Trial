@@ -1,4 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="foxactionmovieshd.id" ,FOX Action Movies HD
-ttps://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies-avc1_2499968=11-2086893274400000.mp4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="hitsmovie.id" ,HITS Movie 
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
