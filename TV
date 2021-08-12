@@ -7,7 +7,7 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
-#EXTINF:-1 tvg-id="thrill" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAABDCAMAAACRDGoDAAAAk1BMVEX///9CQUNBQELj4+M6OTs3Njjt7e1NTE49PD7FxcWJiIn6+vqMi4zPz9ClpKVqaWtaWVrdJFebmpuDgoMyMTN0dHVhYGFHRkiwr7D87vLd3d1UU1XcFVDz8/PW1ta6ubr3zdjoc5DiRm/jUnjtlqzrh6DbAEcoJinvo7b75evfKl70vszxr7/fNGP42eHlZYXpfJiKnWnYAAADK0lEQVRYhe3YW3ubIBgAYORgMMbEIB6aeEi7tWnTdd3//3VDBAXTNLE12S78roICr3xReACAOrIoKwswUuzuH378vGt+uzHzkN/eQvEycI2qS044n4mLI+CPT/l6na93jZuKjmGyqDaNS0QxXYlnUS5xHAgp2UffZp+f1nXkhxfpzqDomWK+lxKiqsg7tw48183djf9Rr2fj7rBuIn9sXREQd66MU663hyuRncF5f82Vu364+5JLZDpwyIaN+7l1D190Vf3VMPdX6759x3XoQPe3dvN3cEsXvCs4f72t+/Im4fwPuK0LXt7zPD88g1u7Qt7t1DR5W9eIS93Fzdy4jlAV4VYW3QvcbGkuNG34LAvc7vppl9ahS2LOphQ76AJ3LiazWcyq3jzubzmnYbQM0BnXOQqYXjLeBZYrGN8z2xWpgxCL5S64miuDHLsNdGUXS7cIPE8u5jd1C5ZyzvfZEBfX0b1XsnTJe2W4KCR1B2SQG9WRtN+RLB6N1y09r3RPuH7Y/Bzmyvh83vDiOo0kjbPiA3fJuPNt94N5spiT5n+AlCfBkUsXquux3Yi0/75Dsdd3YVrfhiJGdUUTxwhIyp5b36cEpqLxuG4zmnbEod9zRatVtUEiinFdiKlIsG7As76LF8anNmaeWYmCuYZp0nP1hZFdSCt5gen3iCPbJdVVXKy2TLoHh1eWC2FxFZfoLyem6gKzXDvNo7nQUVvGboKa2258HXer08h0nch+jIXJjjdfJfojWZ5wv7jun3NXkzu5kzu5kzu5kzu5kzu5/6tb8X/jlscu77vZhS613O2nbpHCnovUFr9zA7UD/twFETZdsKKm689sV29+Ole371w9kjOuSpR2M2667SZLu0UzPMPdNCkxzusqDi9wQUxM10+w6RYptVzxmNB2FWOeE7KmzhnX3WLDBUhK2gWlOpUyGGq7wKvPLa3zSSbrnHGBm4jna12AtgR2LiihlLvqm5BjYroARZwQ61w0qOsol0AZ5MgVnxwV1dqjPZ8RUdQuKOacUGhWD1jS6wRlcWSfx5YsaTbaLExkhMtjF/jePCm7YlFFCeqKbhYnfwEO8FwOPugW5wAAAABJRU5ErkJggg==" ,Thrill
+#EXTINF:-1 tvg-id="thrill" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/240?cb=20170606050150" ,Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
@@ -32,7 +32,7 @@ https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
-#EXTINF:-1 tvg-id="hbofamilyhd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/HBO_Family_Asia_logo.svg" ,HBO Family HD
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" ,HBO Family HD
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
@@ -54,4 +54,20 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 #EXTINF:-1 tvg-id="tvnmovieshd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" ,tvN Movies HD
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="foxhd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png" ,FOX HD
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="foxcrimehd" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_440.png" ,FOX Crime HD
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.pnghttps://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" ,AXN HD
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
 
