@@ -1,173 +1,57 @@
-]
-    },
-    {
-      "name": "Film",
-      "channels": [
-        {
-          "name": "&Flix",
-          "stream_url": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "&Prive",
-          "stream_url": "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "Bioskop Indonesia",
-          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0"
-        },
-        {
-          "name": "Boo",
-          "stream_url": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
-        },
-        {
-          "name": "Celestial Classic",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "Celestial Movie",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "Celestial Movie [ALT]",
-          "stream_url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"
-        },
-        {
-          "name": "Cine Life",
-          "stream_url": "https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8"
-        },
-        {
-          "name": "Cinema World",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "Cinema World [ALT]",
-          "stream_url": "http://210.210.155.35/uq2663/h/h04/index2.m3u8"
-        },
-        {
-          "name": "Cinemax",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "Flik",
-          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0"
-        },
-        {
-          "name": "Fox Action Movies",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "Fox Family Movies",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "Fox Movies Premium",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "Galaxy",
-          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0"
-        },
-        {
-          "name": "Galaxy Premium",
-          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0"
-        },
-        {
-          "name": "HBO",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "HBO Family",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "HBO Hits",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "HBO Signature",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "Hits",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "Hits Movies",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "IMC",
-          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0"
-        },
-        {
-          "name": "Movie Kingdom",
-          "stream_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
-        },
-        {
-          "name": "MovieMix",
-          "stream_url": "https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8"
-        },
-        {
-          "name": "MovieSphere",
-          "stream_url": "https://moviesphere-plex.amagi.tv/playlist.m3u8"
-        },
-        {
-          "name": "My Cinema",
-          "stream_url": "http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8"
-        },
-        {
-          "name": "New K-Movies",
-          "stream_url": "https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8"
-        },
-        {
-          "name": "Sinema Indonesia",
-          "stream_url": "http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8"
-        },
-        {
-          "name": "Thrill",
-          "stream_url": "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8"
-        },
-        {
-          "name": "Thrill [ALT]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "tvN Movies",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name": "Zee Bioskop",
-          "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8"
-        },
-        {
-          "name": "Zee Bioskop [ALT]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
-          "drm_name": "mncnow"
-        }
-      ]
-      
-         ]
-    }
-  ],
-  "drm_licenses": [
-    {
-      "drm_name": "mncnow",
-      "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3"
-    }
-  ]
-}
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="hitsmovie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" ,HITS Movie HD
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="thrill" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAABDCAMAAACRDGoDAAAAk1BMVEX///9CQUNBQELj4+M6OTs3Njjt7e1NTE49PD7FxcWJiIn6+vqMi4zPz9ClpKVqaWtaWVrdJFebmpuDgoMyMTN0dHVhYGFHRkiwr7D87vLd3d1UU1XcFVDz8/PW1ta6ubr3zdjoc5DiRm/jUnjtlqzrh6DbAEcoJinvo7b75evfKl70vszxr7/fNGP42eHlZYXpfJiKnWnYAAADK0lEQVRYhe3YW3ubIBgAYORgMMbEIB6aeEi7tWnTdd3//3VDBAXTNLE12S78roICr3xReACAOrIoKwswUuzuH378vGt+uzHzkN/eQvEycI2qS044n4mLI+CPT/l6na93jZuKjmGyqDaNS0QxXYlnUS5xHAgp2UffZp+f1nXkhxfpzqDomWK+lxKiqsg7tw48183djf9Rr2fj7rBuIn9sXREQd66MU663hyuRncF5f82Vu364+5JLZDpwyIaN+7l1D190Vf3VMPdX6759x3XoQPe3dvN3cEsXvCs4f72t+/Im4fwPuK0LXt7zPD88g1u7Qt7t1DR5W9eIS93Fzdy4jlAV4VYW3QvcbGkuNG34LAvc7vppl9ahS2LOphQ76AJ3LiazWcyq3jzubzmnYbQM0BnXOQqYXjLeBZYrGN8z2xWpgxCL5S64miuDHLsNdGUXS7cIPE8u5jd1C5ZyzvfZEBfX0b1XsnTJe2W4KCR1B2SQG9WRtN+RLB6N1y09r3RPuH7Y/Bzmyvh83vDiOo0kjbPiA3fJuPNt94N5spiT5n+AlCfBkUsXquux3Yi0/75Dsdd3YVrfhiJGdUUTxwhIyp5b36cEpqLxuG4zmnbEod9zRatVtUEiinFdiKlIsG7As76LF8anNmaeWYmCuYZp0nP1hZFdSCt5gen3iCPbJdVVXKy2TLoHh1eWC2FxFZfoLyem6gKzXDvNo7nQUVvGboKa2258HXer08h0nch+jIXJjjdfJfojWZ5wv7jun3NXkzu5kzu5kzu5kzu5kzu5/6tb8X/jlscu77vZhS613O2nbpHCnovUFr9zA7UD/twFETZdsKKm689sV29+Ole371w9kjOuSpR2M2667SZLu0UzPMPdNCkxzusqDi9wQUxM10+w6RYptVzxmNB2FWOeE7KmzhnX3WLDBUhK2gWlOpUyGGq7wKvPLa3zSSbrnHGBm4jna12AtgR2LiihlLvqm5BjYroARZwQ61w0qOsol0AZ5MgVnxwV1dqjPZ8RUdQuKOacUGhWD1jS6wRlcWSfx5YsaTbaLExkhMtjF/jePCm7YlFFCeqKbhYnfwEO8FwOPugW5wAAAABJRU5ErkJggg==" ,Thrill
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="foxmovies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" ,FOX Movies HD
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="foxfamilymovies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png" ,FOX Family Movies HD
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="foxactionmovies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png" ,FOX Action Movies HD
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" ,HBO HD
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="hbofamilyhd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/HBO_Family_Asia_logo.svg" ,HBO Family HD
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="hbosignaturehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" ,HBO Signature HD
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="hbohitshd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,HBO HiTS HD
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" ,Cinemax HD
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="tvnmovieshd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" ,tvN Movies HD
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
