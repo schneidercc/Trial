@@ -1,4 +1,4 @@
-#EXTM3U x-url-tvg="https:/raw.githubusercontent.com/schneidercc/Trial/main/all.xml" url-tvg="https://unifiplaytv.samsam123.tk/epg"
+#EXTM3U url-tvg="https:/raw.githubusercontent.com/schneidercc/Trial/main/all.xml" url-tvg="https://unifiplaytv.samsam123.tk/epg"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
