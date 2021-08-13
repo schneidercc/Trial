@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://unifiplaytv.samsam123.tk/epg"
+#EXTM3U x-url-tvg="https:/raw.githubusercontent.com/schneidercc/Trial/main/all.xml" url-tvg="https://unifiplaytv.samsam123.tk/epg"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
@@ -83,11 +83,15 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 #EXTINF:-1 tvg-id="Boo" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" ,BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" ,Blue Ant Extreme
-http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
+#EXTINF:-1 group-title="International Variety" ch-number="473" tvg-id="473" tvg-chno="473" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Entertainment
+https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd
 
-#EXTINF:-1 tvg-id="Blue Ant" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" ,Blue Ant Entertainment
-http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
+#EXTINF:-1 group-title="International Variety" ch-number="474" tvg-id="474" tvg-chno="474" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",Blue Ant Extreme
+https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.mncnow
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
@@ -152,6 +156,11 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 #EXTINF:-1 tvg-id="National Geographic Wild" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" ,Nat Geo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
+#EXTINF:-1 tvg-id="511" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png",Nat Geo People HD
+https://web.hypp.tv:443/PLTV/88888888/224/3221227590/3221227590.mpd
+
 #EXTINF:-1 tvg-id="History HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" ,History HD
 http://topwin-tv.my.id/2/master.m3u8?id=history
 
@@ -187,5 +196,41 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
-#EXTINF:-1 tvg-id="454" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png" ,FX
+#EXTINF:-1 tvg-id="454" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png",FX
 https://web.hypp.tv:443/PLTV/88888888/224/3221227571/3221227571.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
+#EXTINF:-1 tvg-id="408" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network
+https://web.hypp.tv:443/PLTV/88888888/224/3221227565/3221227565.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
+#EXTINF:-1 tvg-id="411" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld HD
+https://web.hypp.tv:443/PLTV/88888888/224/3221227568/3221227568.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
+#EXTINF:-1 tvg-id="331" tvg-chno="331" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",Sony Max
+https://web.hypp.tv:443/PLTV/88888888/224/3221227498/3221227498.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
+#EXTINF:-1 tvg-id="333" tvg-chno="333" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
+https://web.hypp.tv:443/PLTV/88888888/224/3221227501/3221227501.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
+#EXTINF:-1 tvg-id="341" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png",Colors
+https://web.hypp.tv:443/PLTV/88888888/224/3221227504/3221227504.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
+#EXTINF:-1 tvg-id="342" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png",Sony SAB
+https://web.hypp.tv:443/PLTV/88888888/224/3221227538/3221227538.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
+#EXTINF:-1 tvg-id="343" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png",Sony SET
+https://web.hypp.tv:443/PLTV/88888888/224/3221227541/3221227541.mpd
+
