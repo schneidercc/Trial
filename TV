@@ -204,35 +204,5 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227571/3221227571.mpd
 #EXTINF:-1 tvg-id="408" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network
 https://web.hypp.tv:443/PLTV/88888888/224/3221227565/3221227565.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
-#EXTINF:-1 tvg-id="411" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227568/3221227568.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
-#EXTINF:-1 tvg-id="331" tvg-chno="331" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",Sony Max
-https://web.hypp.tv:443/PLTV/88888888/224/3221227498/3221227498.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
-#EXTINF:-1 tvg-id="333" tvg-chno="333" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
-https://web.hypp.tv:443/PLTV/88888888/224/3221227501/3221227501.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
-#EXTINF:-1 tvg-id="341" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png",Colors
-https://web.hypp.tv:443/PLTV/88888888/224/3221227504/3221227504.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
-#EXTINF:-1 tvg-id="342" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png",Sony SAB
-https://web.hypp.tv:443/PLTV/88888888/224/3221227538/3221227538.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTYxODAwNDItNzk0NC0zZjBmLWFhOTctMTUxYTE0OTA1ZTRk
-#EXTINF:-1 tvg-id="343" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png",Sony SET
-https://web.hypp.tv:443/PLTV/88888888/224/3221227541/3221227541.mpd
-
 #EXTINF:-1 tvg-id="TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" ,TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8
