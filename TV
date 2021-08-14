@@ -216,9 +216,6 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" ,TV3 HD
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WWE Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" ,WWE Network HD
-https://list.iptvcat.com/my_list/s/2a2fc7e9d07942bab8eab550ad15e802.m3u8
-
 #EXTINF:-1 tvg-id="FOX TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png" ,FOX TR
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1628969843&st=jn_DzXneYt6Qzhs7dPuVSg
 
